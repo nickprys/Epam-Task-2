@@ -1,0 +1,7 @@
+C:\Users\User\source\repos2\Задание2\Сумма четных if\obj\Debug\Сумма четных if.csprojAssemblyReference.cache
+C:\Users\User\source\repos2\Задание2\Сумма четных if\obj\Debug\Сумма четных if.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos2\Задание2\Сумма четных if\bin\Debug\Сумма четных if.exe.config
+C:\Users\User\source\repos2\Задание2\Сумма четных if\bin\Debug\Сумма четных if.exe
+C:\Users\User\source\repos2\Задание2\Сумма четных if\bin\Debug\Сумма четных if.pdb
+C:\Users\User\source\repos2\Задание2\Сумма четных if\obj\Debug\Сумма четных if.exe
+C:\Users\User\source\repos2\Задание2\Сумма четных if\obj\Debug\Сумма четных if.pdb

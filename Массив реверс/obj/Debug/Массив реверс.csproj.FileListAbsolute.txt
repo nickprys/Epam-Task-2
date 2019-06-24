@@ -1,0 +1,7 @@
+C:\Users\User\source\repos2\Задание2\Массив реверс\bin\Debug\Массив реверс.exe.config
+C:\Users\User\source\repos2\Задание2\Массив реверс\bin\Debug\Массив реверс.exe
+C:\Users\User\source\repos2\Задание2\Массив реверс\bin\Debug\Массив реверс.pdb
+C:\Users\User\source\repos2\Задание2\Массив реверс\obj\Debug\Массив реверс.csprojAssemblyReference.cache
+C:\Users\User\source\repos2\Задание2\Массив реверс\obj\Debug\Массив реверс.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos2\Задание2\Массив реверс\obj\Debug\Массив реверс.exe
+C:\Users\User\source\repos2\Задание2\Массив реверс\obj\Debug\Массив реверс.pdb
